@@ -1,0 +1,202 @@
+*
+{margin: auto;
+    padding: 0;
+    font-family: monospace;
+    box-sizing: border-box;
+    
+}
+
+.tableisi table{
+    position: absolute;
+    left: 250px;
+    border: 1px solid #0088ff; 
+    border-collapse: collapse;
+    box-shadow: 0px 2px 5px;
+    top: 200px;
+    
+}
+thead{
+    background: #0088ff; color: black;
+    border-bottom: 4px solid #006fd0;
+    padding: 30px;
+}
+.tbody{
+    padding: inherit;
+}
+
+}
+
+
+  
+   
+}
+.tableisi table th{
+    padding: 15px;
+    
+}
+.no{
+    padding: 10px 20px ;
+    width: 30px;  
+   
+}
+.matakuliah{
+    padding: 10px 10px;
+    width: 150px;  
+}
+.jam{
+     padding: 10px 10px;
+     width: 100px;  
+}
+.nim{
+    padding: 10px 10px;
+    width: 100px;  
+}
+.keterangan{
+     padding: 10px 10px;
+     width: 300px;  
+}
+
+.kehadiran{
+    padding: 10px 20px ;
+    width: 20px; 
+    
+}
+
+.nama{
+    padding: 10px 10px;
+    width: 300px;
+    
+}
+.kehadiran{
+    padding: 10px 7px;
+    
+}
+.tanggal{
+    padding: 10px 20px ;
+    width: 330px;
+   
+}
+.jam{
+    height: 30px;
+    box-sizing: 600px;
+}
+
+.tableisi table tr{
+    
+  
+    
+    font-size: 16;
+    padding: 20px;
+    text-align: center;
+    
+    
+}
+.tableisi table tr:nth-child(2n)
+{
+    background-color: #ededed;
+   padding: 600px;
+    text-align: center;
+    font-size: 16;
+    
+}
+.hero{
+    position: absolute;
+	color: white;
+	text-transform: uppercase;
+	background-color: #0088ff;
+	font-size: 60px;
+    width: 1366px;
+	height: 70px;
+    top: 0px;
+}
+.judul{
+    position: absolute;
+    top: 10px;
+    font-size: 20px;
+    top: 80px;
+    left: 500px 
+}
+.menu{
+    padding: 30px 2;
+    position: absolute;
+    left: 10px;
+    top: 150px;
+    border: 1px solid #0088ff; 
+    border-color: collapse;
+    background-color: #0088ff;
+    box-shadow: 0px 2px 5px;
+    width: 200px;
+    height: 600px;
+
+    
+}
+.menu th {
+   padding: 10px 10px;
+   background-color: #0088ff;
+   border:  solid black;  
+
+}
+.pencarian{
+    margin-top: 150px;
+    margin-left: 300px;
+    
+}
+.logout input[type="submit"]
+{
+     border: none;
+    outline: none;
+    height: 40px;
+    width: 100px;
+    color: white;
+    font-size: 16px;
+    background-color: red;
+    cursor: pointer;
+    border-radius: 20px; 
+}
+.logout input[type="submit"]:hover{
+    background-color: yellow;
+    color: black;
+    
+}
+.logout{  
+    position: absolute;
+    top: 3px;
+    right: 50px;
+    outline: none;
+    height: 40px;
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px 24px;    
+}
+.formdata{
+    padding: 30px 50px;
+    position: absolute;
+    left: 36%;
+    top: 150px; 
+    border: 1px solid #0088ff; 
+    border-color: collapse;
+    background-color: #0088ff;
+    box-shadow: 0px 2px 5px;
+    width: 450px;
+    height: 600px
+    
+}
+
+
+.formdata input{
+    
+    margin-top: 20px;
+    height: 30px;
+    width: 340;
+    font-size: 16;
+        
+}
+
+.formdata select{
+    margin-top: 20px;
+    height: 30px;
+   
+    
+}
